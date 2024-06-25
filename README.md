@@ -30,8 +30,8 @@
 
 ### Social Media 
 <div style="display: inline_block"><br>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://www.linkedin.com/in/axit-thesiya-6135a32ab/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://www.instagram.com/_axitthesiya_/?next=%2F&hl=enprofile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
 ###
