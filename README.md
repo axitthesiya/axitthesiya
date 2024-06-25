@@ -25,13 +25,11 @@
 ### Snack Game
 
 ![snake gif](https://github.com/axitthesiya/axitthesiya/blob/output/github-contribution-grid-snake.gif)
- <img src="https://raw.githubusercontent.com/axitthesiya/axitthesiya/output/snake.svg" alt="Snake animation" />
+ <img src="https://github.com/axitthesiya/axitthesiya/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+
 
 ###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
  
