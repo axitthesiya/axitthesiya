@@ -28,6 +28,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=axitthesiya&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+### Social Media 
+<div style="display: inline_block"><br>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="twitter logo"  />
+</div>
+
 ###
 ### Snack Game
 
